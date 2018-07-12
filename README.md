@@ -7,3 +7,5 @@ which will increase when you fire bullet, dont let it go up or else you will die
 if .exe file dont works then try to use compiled python file .pyc (if u have python installed).
 intresting feature is guided missile will make decision on its own. hope you will enjoy.
 author - jimmy kumar ahalpara
+jahalpara5@gmail.com
+https://www.pygame.org/project/3593/5680
