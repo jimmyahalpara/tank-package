@@ -8,4 +8,5 @@ if .exe file dont works then try to use compiled python file .pyc (if u have pyt
 intresting feature is guided missile will make decision on its own. hope you will enjoy.
 author - jimmy kumar ahalpara
 jahalpara5@gmail.com
-https://www.pygame.org/project/3593/5680
+pygame.org pase -- https://www.pygame.org/project/3593/5680
+source  -- https://drive.google.com/open?id=1od56yqIPSTNXOLAs3m9dFi632Ybb7PL-
